@@ -7,7 +7,16 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1245575d-e11e-47c8-9de4-0644c5d41b24" name="Changes" comment="" />
+    <list default="true" id="1245575d-e11e-47c8-9de4-0644c5d41b24" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.rustlings-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.rustlings-state.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/10_modules/modules1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/10_modules/modules1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/10_modules/modules2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/10_modules/modules2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/10_modules/modules3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/10_modules/modules3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/10_modules/modules1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/10_modules/modules1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/10_modules/modules2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/10_modules/modules2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/10_modules/modules3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/10_modules/modules3.rs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "YingqiDuan"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/YingqiDuan/rustlings_exercise.git",
+    "accountId": "ede6e204-9e13-4c4e-897c-50050a838ca9"
+  }
+}]]></component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="zu2Yx4PR" />
   </component>
@@ -24,6 +45,7 @@
   "associatedIndex": 3
 }]]></component>
   <component name="ProjectId" id="2s5qBRrBBKQwhdMluTIQgcej029" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,7 +57,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -133,7 +155,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737755648825</updated>
-      <workItem from="1737755650607" duration="4774000" />
+      <workItem from="1737755650607" duration="6173000" />
     </task>
     <servers />
   </component>
