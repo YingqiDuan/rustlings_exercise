@@ -7,14 +7,17 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1245575d-e11e-47c8-9de4-0644c5d41b24" name="Changes" comment="modules">
+    <list default="true" id="1245575d-e11e-47c8-9de4-0644c5d41b24" name="Changes" comment="hashmaps">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.rustlings-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.rustlings-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/11_hashmaps/hashmaps3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/12_options/options1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/12_options/options1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/12_options/options2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/12_options/options2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/12_options/options3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/12_options/options3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/quizzes/quiz2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/quizzes/quiz2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/12_options/options1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/12_options/options1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/12_options/options2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/12_options/options2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/quizzes/quiz2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/quizzes/quiz2.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -154,7 +157,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737755648825</updated>
-      <workItem from="1737755650607" duration="7907000" />
+      <workItem from="1737755650607" duration="9724000" />
     </task>
     <task id="LOCAL-00001" summary="modules">
       <option name="closed" value="true" />
@@ -164,7 +167,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737763662128</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="hashmaps">
+      <option name="closed" value="true" />
+      <created>1737765292562</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1737765292562</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -172,6 +183,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="modules" />
+    <MESSAGE value="hashmaps" />
+    <option name="LAST_COMMIT_MESSAGE" value="hashmaps" />
   </component>
 </project>
