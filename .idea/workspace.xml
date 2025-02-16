@@ -7,17 +7,95 @@
     <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1245575d-e11e-47c8-9de4-0644c5d41b24" name="Changes" comment="hashmaps">
+    <list default="true" id="1245575d-e11e-47c8-9de4-0644c5d41b24" name="Changes" comment="options">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.rustlings-state.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.rustlings-state.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/12_options/options1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/12_options/options1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/12_options/options2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/12_options/options2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/12_options/options3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/12_options/options3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercises/quizzes/quiz2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/quizzes/quiz2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/11_hashmaps/hashmaps3.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/12_options/options1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/12_options/options1.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/12_options/options2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/12_options/options2.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/solutions/quizzes/quiz2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/quizzes/quiz2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/13_error_handling/errors6.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/13_error_handling/errors6.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/14_generics/generics1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/14_generics/generics1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/14_generics/generics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/14_generics/generics2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/15_traits/traits5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/15_traits/traits5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/16_lifetimes/lifetimes3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/17_tests/tests1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/17_tests/tests1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/17_tests/tests2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/17_tests/tests2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/17_tests/tests3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/17_tests/tests3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/18_iterators/iterators5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/18_iterators/iterators5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/19_smart_pointers/arc1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/19_smart_pointers/arc1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/19_smart_pointers/box1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/19_smart_pointers/box1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/19_smart_pointers/cow1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/19_smart_pointers/cow1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/19_smart_pointers/rc1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/19_smart_pointers/rc1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/20_threads/threads1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/20_threads/threads1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/20_threads/threads2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/20_threads/threads2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/20_threads/threads3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/20_threads/threads3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/21_macros/macros1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/21_macros/macros1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/21_macros/macros2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/21_macros/macros2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/21_macros/macros3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/21_macros/macros3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/21_macros/macros4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/21_macros/macros4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/22_clippy/clippy1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/22_clippy/clippy1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/22_clippy/clippy2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/22_clippy/clippy2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/22_clippy/clippy3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/22_clippy/clippy3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/23_conversions/as_ref_mut.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/23_conversions/as_ref_mut.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/23_conversions/from_into.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/23_conversions/from_into.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/23_conversions/from_str.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/23_conversions/from_str.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/23_conversions/try_from_into.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/23_conversions/try_from_into.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/23_conversions/using_as.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/23_conversions/using_as.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/exercises/quizzes/quiz3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/exercises/quizzes/quiz3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/13_error_handling/errors6.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/13_error_handling/errors6.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/14_generics/generics1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/14_generics/generics1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/14_generics/generics2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/14_generics/generics2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/15_traits/traits5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/15_traits/traits5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/16_lifetimes/lifetimes3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/17_tests/tests1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/17_tests/tests1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/17_tests/tests2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/17_tests/tests2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/17_tests/tests3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/17_tests/tests3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/18_iterators/iterators5.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/18_iterators/iterators5.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/19_smart_pointers/arc1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/19_smart_pointers/arc1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/19_smart_pointers/box1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/19_smart_pointers/box1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/19_smart_pointers/cow1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/19_smart_pointers/cow1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/19_smart_pointers/rc1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/19_smart_pointers/rc1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/20_threads/threads1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/20_threads/threads1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/20_threads/threads2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/20_threads/threads2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/20_threads/threads3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/20_threads/threads3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/21_macros/macros1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/21_macros/macros1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/21_macros/macros2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/21_macros/macros2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/21_macros/macros3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/21_macros/macros3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/21_macros/macros4.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/21_macros/macros4.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/22_clippy/clippy1.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/22_clippy/clippy1.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/22_clippy/clippy2.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/22_clippy/clippy2.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/22_clippy/clippy3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/22_clippy/clippy3.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/23_conversions/from_into.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/23_conversions/from_into.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/23_conversions/from_str.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/23_conversions/from_str.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/23_conversions/using_as.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/23_conversions/using_as.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/solutions/quizzes/quiz3.rs" beforeDir="false" afterPath="$PROJECT_DIR$/solutions/quizzes/quiz3.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,24 +106,24 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "YingqiDuan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;YingqiDuan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/YingqiDuan/rustlings_exercise.git",
-    "accountId": "ede6e204-9e13-4c4e-897c-50050a838ca9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/YingqiDuan/rustlings_exercise.git&quot;,
+    &quot;accountId&quot;: &quot;ede6e204-9e13-4c4e-897c-50050a838ca9&quot;
   }
-}]]></component>
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="zu2Yx4PR" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2s5qBRrBBKQwhdMluTIQgcej029" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -56,6 +134,7 @@
   "keyToString": {
     "Cargo.Run intro1.executor": "Run",
     "Cargo.Run intro2.executor": "Run",
+    "Cargo.Run.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.rust.reset.selective.auto.import": "true",
@@ -71,7 +150,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Cargo.Run intro2">
+  <component name="RunManager" selected="Cargo.Run">
     <configuration name="Run intro1" type="CargoCommandRunConfiguration" factoryName="Cargo Command" temporary="true">
       <option name="command" value="run --package exercises --bin intro1" />
       <option name="workingDirectory" value="file://$PROJECT_DIR$" />
@@ -123,22 +202,6 @@
         <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CargoCommandRunConfiguration" factoryName="Cargo Command">
-      <option name="command" value="run" />
-      <envs />
-      <option name="emulateTerminal" value="true" />
-      <option name="channel" value="DEFAULT" />
-      <option name="requiredFeatures" value="true" />
-      <option name="allFeatures" value="false" />
-      <option name="withSudo" value="false" />
-      <option name="buildTarget" value="REMOTE" />
-      <option name="backtrace" value="SHORT" />
-      <option name="isRedirectInput" value="false" />
-      <option name="redirectInputPath" value="" />
-      <method v="2">
-        <option name="CARGO.BUILD_TASK_PROVIDER" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Cargo.Run intro2" />
@@ -157,7 +220,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737755648825</updated>
-      <workItem from="1737755650607" duration="9724000" />
+      <workItem from="1737755650607" duration="22578000" />
+      <workItem from="1738645175510" duration="4244000" />
+      <workItem from="1738977137842" duration="30510000" />
     </task>
     <task id="LOCAL-00001" summary="modules">
       <option name="closed" value="true" />
@@ -175,7 +240,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737765292562</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="options">
+      <option name="closed" value="true" />
+      <created>1737767125745</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1737767125745</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -184,6 +257,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modules" />
     <MESSAGE value="hashmaps" />
-    <option name="LAST_COMMIT_MESSAGE" value="hashmaps" />
+    <MESSAGE value="options" />
+    <option name="LAST_COMMIT_MESSAGE" value="options" />
   </component>
 </project>
